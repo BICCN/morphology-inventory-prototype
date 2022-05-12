@@ -17,7 +17,8 @@ along with essential metadata and provenance.
 * Resampled cell reconstruction in CCF coordinates in a standardized SWC format
 * CCF based computed and visualization
   * Computed after submission and based on specific version of CCF atlas annotation
-  * [See prototype thumbnails for the U19Zeng project](u19zeng_demo/index.html)
+  * [See prototype thumbnails for the U19Zeng project](u19zeng_demo/index.html
+  * [See prototype thumbnails for the MouseLight neurosn](mouselight_demo/index.html)
   
  ## References
  * [BICCN data standards - Morphology data presentation](https://docs.google.com/presentation/d/1UkFlv362a7D4Xo26-7LIBSuG5I5Q4cfE/edit?usp=sharing&ouid=117290496276111470013&rtpof=true&sd=true) (8/4/2021, Lydia Ng)
